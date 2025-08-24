@@ -49,7 +49,7 @@ Change root to normal user
 <!-- new_line -->
 <!-- pause -->
 ```bash +exec
-    su dawalhasa
+    su - dawalhasa
 ```
 <!-- end_slide -->
 Rpmbuild directory exist than check using tree command

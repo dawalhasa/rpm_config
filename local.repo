@@ -1,0 +1,10 @@
+[dvd1]
+name=AppStream
+baseurl=file:///run/media/dawalhasa/RHEL-10-0-BaseOS-aarch64/AppStream/
+gpgcheck=0
+
+
+[dvd2]
+name=BaseOS
+baseurl=file:///run/media/dawalhasa/RHEL-10-0-BaseOS-aarch64/BaseOS
+gpgcheck=0
